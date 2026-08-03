@@ -17,6 +17,8 @@ HKeyboard 仅为下载用于输入预测的语言词典文件而连接互联网�
 
 本地存储
 
+剪贴板历史记录（您复制的文本，仅保存在您的设备上，用于键盘的剪贴板功能）
+
 HKeyboard 可能在设备本地存储以下信息：
 
 键盘设置
@@ -65,6 +67,8 @@ Network Access
 HKeyboard connects to the internet only to download language dictionary files used for typing prediction. These are standard file downloads. No text you type, and no other personal information, is uploaded or transmitted during this process.
 
 Local Storage
+
+Clipboard history (text you copy, kept only on your device for the keyboard's clipboard feature)
 
 HKeyboard may store the following information locally on the device:
 
